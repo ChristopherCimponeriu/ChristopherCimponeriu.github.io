@@ -1,0 +1,64 @@
+body{
+		background-image: url('../images/pattern1.png');
+		font-size: 14px;
+		font-family: "Times New Roman", serif;
+		font-color: black;
+}
+#container{
+		width: 700px;
+		height: 1000px;
+		margin: 0 auto 0 auto;
+		background-color: #EE7871;
+}
+.content{
+	background-color: #F3EBE9;
+	padding: 20px;
+	margin-top: -10px;
+}
+h1{
+	font-size: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+h2{
+	font-size: 18px;
+	text-transform: uppercase;
+	font-family: cursive, Helvetica, sans-serif;
+}
+.copyright{
+	float: right;
+	color: white;
+	padding: 10px;
+	font-size: 10px;
+}
+.photos{
+	border-style: groove;
+	border-width: 5px;
+	width:23%;
+}
+.pictures{
+	text-align: center;
+}
+.heading{
+	padding: 10px;
+}
+/* 
+
+Style Hints: 
+
+Body Font Size = 14px
+	 Font Family = "Times New Roman", serif
+	 Font Color = black
+	 Background: #F3EBE9
+
+H1 Font Size = 50px
+   Font Family = Arial, Helvetica, sans-serif
+   Text-transform: uppercase;
+   color: #FFFFFF;	(White)
+
+H2: Font Size = 18px
+	Text-Transform: uppercase;
+	Font-Family: cursive, Helvetica, sans-serif;
+
+*/
